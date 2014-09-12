@@ -1,3 +1,7 @@
 body {
+  background: url('../images/treesbg.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-color: $light-green;
   @include outer-container;
 }
