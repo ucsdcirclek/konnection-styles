@@ -42,10 +42,10 @@
         <li class="nav-link"><a href="javascript:void(0)">home</a></li>
         <li class="nav-link more"><a href="javascript:void(0)">about</a>
           <ul class="submenu">
-            <li><a href="circlek.html">Circle K</a></li>
-            <li><a href="district.html">District</a></li>
-            <li><a href="division.html">Division</a></li>
-            <li><a href="club.html">Club</a></li>
+            <li><a href="javascript:void(0)">Circle K</a></li>
+            <li><a href="javascript:void(0)">District</a></li>
+            <li><a href="javascript:void(0)">Division</a></li>
+            <li><a href="javascript:void(0)">Club</a></li>
             </li>
           </ul>
         <li class="nav-link"><a href="calendar.html">calendar</a></li>
