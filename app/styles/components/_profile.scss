@@ -1,0 +1,55 @@
+#container{
+    @include span-columns(12);
+    background: $cream;
+}
+
+#content {
+  #main {
+    @include span-columns(8);
+    height: 100%;
+    padding-right: 20px;
+    padding-bottom: 50px;
+  }
+
+  #sidebar {
+    @include span-columns(4);
+    height: 100%;
+    padding-left: 20px;
+    padding-bottom: 50px;
+  }
+}
+
+#avatar {
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+#service {
+	width: 200px;
+	height: 25px;
+	background: #64DFFE;
+    color: #fff;
+    text-align: center;
+}
+
+#leadership {
+	width: 200px;
+	height: 25px;
+	background: $red;
+    color: #fff;
+    text-align: center;
+}
+
+#fellowship {
+	width: 200px;
+	height: 25px;
+	background: $green;
+    color: #fff;
+    text-align: center;
+}
+
