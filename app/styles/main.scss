@@ -1,5 +1,3 @@
-@import url(http://fonts.googleapis.com/css?family=Arvo|Lobster);
-
 @import "vendor/bourbon/bourbon";
 @import "base/grid-settings";
 @import "vendor/neat/neat";
@@ -8,7 +6,6 @@
 // Pages
 @import "page/base";
 @import "page/home";
-@import "page/login";
 
 // Components
 @import "components/navigation";
